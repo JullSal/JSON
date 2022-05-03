@@ -1,6 +1,8 @@
 
 {
-
-
-
+	"firstName" : "Julia",
+	"secondName" : "Salnikova",
+	"age" : "27",
+	"pets" : "no" ,
+	"salary" : "400$"
 }
